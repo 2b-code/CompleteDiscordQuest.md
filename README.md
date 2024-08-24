@@ -116,6 +116,7 @@ if(!isApp) {
 		console.log("Remember that you need at least 1 other person to be in the vc!")
 	}
 }
+```js
 7. Keep the stream running for 15 minutes
 8. You can now claim the reward in User Settings -> Gift Inventory!
 

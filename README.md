@@ -116,26 +116,3 @@ if(!isApp) {
 		console.log("Remember that you need at least 1 other person to be in the vc!")
 	}
 }
-```js
-7. Keep the stream running for 15 minutes
-8. You can now claim the reward in User Settings -> Gift Inventory!
-
-You can track the progress by looking at the `Quest progress:` prints in the Console tab, or by reopening the Gift Inventory tab in settings. The progress should update every 30s.
-
-## FAQ
-
-**Q: Ctrl + Shift + I doesn't work**
-
-A: Either download the [ptb client](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64), or use [this](https://www.reddit.com/r/discordapp/comments/sc61n3/comment/hu4fw5x/) to enable DevTools on stable
-
-
-**Q: I get an error saying "Unauthorized"**
-
-A: Discord has patched the script from working in browsers. Use the desktop app, or alternatively find some extension which lets you change your User-Agent and append the string `Electron/` anywhere in it.
-
-They have also started checking how many people are in the vc, so make sure you join it on at least 1 other account.
-
-
-**Q: I get a different error**
-
-A: Make sure you've started streaming *before* running the script. Also make sure you're copy/pasting it correctly.

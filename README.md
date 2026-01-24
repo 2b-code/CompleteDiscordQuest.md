@@ -1,5 +1,18 @@
 ## Complete Recent Discord Quest
-delete window.$;
+
+
+
+
+
+
+
+
+
+
+
+
+
+      delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
 webpackChunkdiscord_app.pop();
 
